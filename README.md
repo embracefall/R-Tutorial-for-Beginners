@@ -1,5 +1,5 @@
-# R-Tutorial-for-Beginners
-# 2019年华东政法大学研究方法训练营讲稿
+## R-Tutorial-for-Beginners
+## 2019年华东政法大学研究方法训练营讲稿
 
 # 内容提要
 # 1.下载安装
